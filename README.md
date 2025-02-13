@@ -33,10 +33,10 @@ Before you begin, please take a moment to read this important notice.
 
 ### 📊 Stats & Badges
 
-[![GitHub Release](https://img.shields.io/github/release/akirachhoi01/TG-AdderToll_2025?style=social&logo=github)](https://github.com/akirachhoi01/TG-AdderToll_2025/releases) ![GitHub Release Date](https://img.shields.io/github/release-date/akirachhoi01/TG-AdderToll_2025?style=social&logo=github) ![GitHub Last Commit](https://img.shields.io/github/last-commit/akirachhoi01/TG-AdderToll_2025?style=social&logo=github) ![GitHub Forks](https://img.shields.io/github/forks/akirachhoi01/TG-AdderToll_2025?style=social) ![GitHub Stars](https://img.shields.io/github/stars/akirachhoi01/TG-AdderToll_2025?style=social) ![GitHub Watchers](https://img.shields.io/github/watchers/akirachhoi01/TG-AdderToll_2025?style=social&logo=github) ![Repo Size](https://img.shields.io/github/repo-size/akirachhoi01/TG-AdderToll_2025?style=social&logo=github) ![Branch](https://img.shields.io/badge/Branch-Main-white?style=social&logo=github) ![GitHub License](https://img.shields.io/github/license/akirachhoi01/TG-AdderToll_2025?style=social&logo=github) ![GitHub Sponsors](https://img.shields.io/github/sponsors/akirachhoi01?style=social&logo=github) ![GitHub Language Count](https://img.shields.io/github/languages/count/akirachhoi01/TG-AdderToll_2025?style=social&logo=hyper) ![Maintenance](https://img.shields.io/badge/Maintained%3F-Yes-white?style=social&logo=hugo) ![Python Version](https://img.shields.io/badge/Python-v3.10-white?style=social&logo=python) [![Documentation](https://img.shields.io/badge/Documentation-Video_Tutorial-white?style=social&logo=google)](https://t.me/PublicSource_Chat/5003)
+[![GitHub Release](https://img.shields.io/github/release/akirachoi01/TG-AdderToll_2025?style=social&logo=github)](https://github.com/akirachoi01/TG-AdderToll_2025/releases) ![GitHub Release Date](https://img.shields.io/github/release-date/akirachoi01/TG-AdderToll_2025?style=social&logo=github) ![GitHub Last Commit](https://img.shields.io/github/last-commit/akirachoi01/TG-AdderToll_2025?style=social&logo=github) ![GitHub Forks](https://img.shields.io/github/forks/akirachoi01/TG-AdderToll_2025?style=social) ![GitHub Stars](https://img.shields.io/github/stars/akirachoi01/TG-AdderToll_2025?style=social) ![GitHub Watchers](https://img.shields.io/github/watchers/akirachoi01/TG-AdderToll_2025?style=social&logo=github) ![Repo Size](https://img.shields.io/github/repo-size/akirachoi01/TG-AdderToll_2025?style=social&logo=github) ![Branch](https://img.shields.io/badge/Branch-Main-white?style=social&logo=github) ![GitHub License](https://img.shields.io/github/license/akirachoi01/TG-AdderToll_2025?style=social&logo=github) ![GitHub Sponsors](https://img.shields.io/github/sponsors/akirachoi01?style=social&logo=github) ![GitHub Language Count](https://img.shields.io/github/languages/count/akirachoi01/TG-AdderToll_2025?style=social&logo=hyper) ![Maintenance](https://img.shields.io/badge/Maintained%3F-Yes-white?style=social&logo=hugo) ![Python Version](https://img.shields.io/badge/Python-v3.10-white?style=social&logo=python) [![Documentation](https://img.shields.io/badge/Documentation-Video_Tutorial-white?style=social&logo=google)](https://t.me/PublicSource_Chat/5003)
 
-<a href="https://ko-fi.com/akirachhoi01" class="padded"><img height="30" style="border:0px;height:30px;" align="left" alt="akirachhoi01" src="https://az743702.vo.msecnd.net/cdn/kofi3.png?v=0" /></a>
-<a href="https://www.paypal.me/akirachhoi01" class="padded"><img height="30" style="border:0px;height:30px;" align="centre" alt="akirachhoi01" src="https://cdn.rawgit.com/twolfson/paypal-github-button/1.0.0/dist/button.svg" /></a>
+<a href="https://ko-fi.com/akirachoi01" class="padded"><img height="30" style="border:0px;height:30px;" align="left" alt="akirachoi01" src="https://az743702.vo.msecnd.net/cdn/kofi3.png?v=0" /></a>
+<a href="https://www.paypal.me/akirachoi01" class="padded"><img height="30" style="border:0px;height:30px;" align="centre" alt="akirachoi01" src="https://cdn.rawgit.com/twolfson/paypal-github-button/1.0.0/dist/button.svg" /></a>
 
 ---
 
@@ -44,12 +44,12 @@ Before you begin, please take a moment to read this important notice.
 
 ### For PC & Android
 ```sh
-RUN apt update && apt upgrade && pkg install -y git python && pkg update && pkg upgrade && pkg install python git && git clone https://github.com/akirachhoi01/TG-AdderToll_2025 && cd TG-AdderToll_2025
+RUN apt update && apt upgrade && pkg install -y git python && pkg update && pkg upgrade && pkg install python git && git clone https://github.com/akirachoi01/TG-AdderToll_2025 && cd TG-AdderToll_2025
 ```
 
 ### For Alpine (iPhone)
 ```sh
-RUN apk update && apk upgrade && apk add git python && git clone https://github.com/akirachhoi01/TG-AdderToll_2025 && cd TG-AdderToll_2025
+RUN apk update && apk upgrade && apk add git python && git clone https://github.com/akirachoi01/TG-AdderToll_2025 && cd TG-AdderToll_2025
 ```
 
 ## Commands
@@ -176,7 +176,7 @@ Other issues should be clear from the name.
 > **This tool is official and completely free to use. Do not buy if anyone tries to sell by copying the script.**
 
 <h2 align="center">Visitors Counts 👀</h2>
-<a href="https://github.com/akirachhoi01/TG-AdderToll_2025"><img alt="Cute Count" src="https://count.getloli.com/get/@TG-AdderToll_2025?theme=rule34" /></a>
+<a href="https://github.com/akirachoi01/TG-AdderToll_2025"><img alt="Cute Count" src="https://count.getloli.com/get/@TG-AdderToll_2025?theme=rule34" /></a>
 
 ## Contributing:
 
@@ -188,4 +188,5 @@ Other issues should be clear from the name.
 - Submit a pull request.
 - Don't add features written in the donation.
 - Don't sell the code for scam anyone just spread it for free😅😡
+
 
