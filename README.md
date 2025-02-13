@@ -3,7 +3,6 @@ TELEGRAM ADD MEMBER TOOL
 
 
 
-
 ## Guidance & More About Software
 
 🔥 **Welcome to the Telegram Members Adding Software!** 🔥
@@ -189,3 +188,4 @@ Other issues should be clear from the name.
 - Submit a pull request.
 - Don't add features written in the donation.
 - Don't sell the code for scam anyone just spread it for free😅😡
+
