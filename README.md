@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/d63cc14c-ffef-432c-8e45-262b67b4d07c)# TG-AdderToll_2025
+# TG-AdderToll_2025
 TELEGRAM ADD MEMBER TOOL
 
 
